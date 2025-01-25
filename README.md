@@ -1,0 +1,1 @@
+# guesthouse-front-end-only
